@@ -30,5 +30,5 @@ client.config = require('./config');
         client.commands.set(command.data.name, command);
     }
         
-    client.login('MTA2ODU3MzM4MzA4MTU5NTAzMg.GfOgbA.6Dk1i6b_HNkh2pnCXgFf1e1B0UJaXQy7kt6ezs');
+    client.login('');
 })();
