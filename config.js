@@ -2,15 +2,15 @@ const { EmbedBuilder } = require('discord.js');
 
 module.exports = {
     // client
-    token: 'MTA2ODU3MzM4MzA4MTU5NTAzMg.GfOgbA.6Dk1i6b_HNkh2pnCXgFf1e1B0UJaXQy7kt6ezs',
-    clientId: '1068573383081595032',
-    guildId: '966704501111279646',
+    token: '',
+    clientId: '',
+    guildId: '',
 
     // webhook
     webhooks: {
         error: {
-            id: 'YOUR_WEBHOOK_ID',
-            token: 'YOUR_WEBHOOK_TOKEN'
+            id: '',
+            token: ''
         }
     },
 
